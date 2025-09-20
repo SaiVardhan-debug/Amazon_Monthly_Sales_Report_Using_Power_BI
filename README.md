@@ -124,6 +124,4 @@ Explore visuals interactively using filters and slicers.
 
 <img width="1919" height="975" alt="Image" src="https://github.com/user-attachments/assets/eb558c3b-5281-4557-ba83-c4f5513c5407" />
 
-🏷️ Tags
 
-Power BI Amazon Sales Data Visualization Business Intelligence DAX
